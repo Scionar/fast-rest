@@ -1,4 +1,6 @@
-# example.py
+# rest.py
+# Pycnic REST service.
+
 from pycnic.core import WSGI, Handler
 import psycopg2
 
